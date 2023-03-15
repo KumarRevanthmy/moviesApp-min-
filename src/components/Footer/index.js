@@ -19,7 +19,7 @@ const Footer = () => (
             <FaInstagram size={30} className="footer-icon" />
             <HiOutlineSearch size={30} className="footer-icon" />
           </div>
-          <p className="contact-heading">Contact us</p>
+          <p className="contact-heading">"Contact us"</p>
         </div>
       )
     }}
